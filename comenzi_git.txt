@@ -34,3 +34,6 @@ git commit --message"Acesta este un mesaj descriptiv"
 
 ##Comanda de adaugare + commit(!!!Fisierele trebuie sa fie incluse intr-un commit inainte)
 git commit -am"Acesta este un mesaj descriptiv al commitului"
+
+##Modificare mesajului ultimului commit
+git commit --amend
